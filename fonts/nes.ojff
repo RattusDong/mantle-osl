@@ -1,0 +1,10 @@
+{
+  "A": "image https://raw.githubusercontent.com/RattusDong/mantle-osl/refs/heads/main/fonts/nes/a.png",
+  "nes": {
+    "version": "8",
+    "monowidth": "True",
+    "character_width": "8",
+    "size": "1",
+    "author": "RattusDong"
+  }
+}
